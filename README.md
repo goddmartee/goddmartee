@@ -1,5 +1,5 @@
 <h1>Hi, I&#39;m MART3! 👋</h1>
-<img src="https://img.shields.io/static/v1?label=Gmail&logo=gmail&labelColor=fff&message=goddmartee&color=red&link=http://goddmartee@gmail.com/" />
+<img src="https://img.shields.io/static/v1?label=Gmail&logo=gmail&labelColor=fff&message=goddmartee&color=red&link=http://goddmartee@gmail.com/ />
 
 <h2>I’m currently learning...</h2>
 <p>
