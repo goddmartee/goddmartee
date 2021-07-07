@@ -1,5 +1,5 @@
 <h1>Hi, I&#39;m MART3! 👋</h1>
-<a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSHxjNSNTcZrzsXPbbJpzgXlgRQRNsvGfhRDBDZqLCDzCVrWrhRWQRPLMTHcdnDbBZlnNfTn"><img src="https://img.shields.io/static/v1?label=Gmail&logo=gmail&labelColor=fff&message=goddmartee&color=red" /></a>
+<a href="mailto:goddmartee@gmail.com"><img src="https://img.shields.io/static/v1?label=Gmail&logo=gmail&labelColor=fff&message=goddmartee&color=red" /></a>
 
 <h2>I’m currently learning...</h2>
 <p>
